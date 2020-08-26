@@ -1,0 +1,9 @@
+server:
+  port: 3333
+
+db:
+  type: 'postgres'
+  database: 'nest'
+
+jwt:
+  expiresIn: 3600
